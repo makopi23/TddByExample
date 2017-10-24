@@ -4,8 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class MoneyTest {
-
+public class MoneyTest {
 	@Test
 	void testMultiplication() {
 		Dollar five = new Dollar(5);
