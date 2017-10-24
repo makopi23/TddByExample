@@ -1,7 +1,7 @@
 package chapter01.money;
 
 public class Dollar {
-	int amount;
+	int amount = 10;
 	
 	Dollar(int amount){
 		
