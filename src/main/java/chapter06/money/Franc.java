@@ -1,6 +1,6 @@
 package chapter06.money;
 
-public class Franc {
+public class Franc extends Money{
 	private int amount;
 	
 	Franc(int amount){
