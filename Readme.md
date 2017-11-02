@@ -14,4 +14,4 @@ https://github.com/makopi23/TddByExample/pull/1
 https://hiro-o.connpass.com/event/68812/
 
 「テスト駆動開発」読書会 Vol.2  
-Comming Soon...
+https://hiro-o.connpass.com/event/70625/
