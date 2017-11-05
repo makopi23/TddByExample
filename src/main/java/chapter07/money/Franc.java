@@ -1,4 +1,4 @@
-package chapter06.money;
+package chapter07.money;
 
 public class Franc extends Money{
 	
