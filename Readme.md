@@ -5,8 +5,11 @@ http://shop.ohmsha.co.jp/shopdetail/000000004967/
 
 ---
 
-TODOリスト  
+TODOリスト (第1章～第11章)  
 https://github.com/makopi23/TddByExample/pull/1
+
+TODOリスト (第12章～)  
+https://github.com/makopi23/TddByExample/pull/2
 
 ---
 
