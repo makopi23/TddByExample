@@ -24,3 +24,6 @@ https://hiro-o.connpass.com/event/71565/
 
 「テスト駆動開発」読書会 Vol.4  
 https://hiro-o.connpass.com/event/73027/
+
+「テスト駆動開発」読書会 Vol.5  
+https://hiro-o.connpass.com/event/74190/
