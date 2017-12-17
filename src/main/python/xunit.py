@@ -6,4 +6,3 @@ print(test.wasRun)
 test.testMethod()
 print(test.WasRun)
 
-
