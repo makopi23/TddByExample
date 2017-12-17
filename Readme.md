@@ -11,6 +11,9 @@ https://github.com/makopi23/TddByExample/pull/1
 TODOリスト (第12章～)  
 https://github.com/makopi23/TddByExample/pull/2
 
+TODOリスト (第17章～)  
+https://github.com/makopi23/TddByExample/pull/3
+
 ---
 
 「テスト駆動開発」読書会 Vol.1  
