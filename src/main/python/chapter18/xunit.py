@@ -17,5 +17,6 @@ class TestCaseTest(TestCase):
         test.run()
         assert(test.wasRun)
 
+print("Test Start!")
 TestCaseTest("testRunning").run()
-
+print("Test Finished!")
